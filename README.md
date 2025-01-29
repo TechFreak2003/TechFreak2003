@@ -1,3 +1,4 @@
+<img src="https://github.com/TechFreak2003/TechFreak2003/blob/main/Suvrodeep%20Das%20Banner.png" alt="GitHub Banner" width="100%" />
 <h1 align="left">Hi 👋! My name is Suvrodeep Das and I'm a passionate CSE Engineer, from India</h1>
 
 ###
