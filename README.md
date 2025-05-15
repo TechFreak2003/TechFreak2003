@@ -79,3 +79,26 @@
 </div>
 
 ###
+
+###
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechFreak2003&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🚀 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TechFreak2003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+# 👁️ Visitor's Count 
+<p>
+  <img src="https://profile-counter.glitch.me/{TechFreak2003}/count.svg" alt="Srinjoy:: Visitor's Count" />
+</p>
+
+###
