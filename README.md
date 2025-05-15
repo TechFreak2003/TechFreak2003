@@ -91,7 +91,7 @@
 
 # 🚀 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/TechFreak2003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Coder0409?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
