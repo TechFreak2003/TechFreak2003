@@ -108,7 +108,7 @@
 
 # 👁️ Visitor's Count 
 <p>
-  <img src="https://profile-counter.glitch.me/{TechFreak2003}/count.svg" alt="Suvrodeep:: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/TechFreak2003/count.svg" alt="Suvrodeep:: Visitor's Count" />
 </p>
 
 ###
