@@ -106,9 +106,6 @@
 
 ---
 
-<!-- 👁️ Visitor's Count -->
-<p align="left">
-  <img src="https://bus-hit-counter.vercel.app/api/hit/TechFreak2003/readme" alt="Visitor Count" />
-</p>
+![Visitor Count](https://shields.io/endpoint?url=https://count.getloli.com/get/@TechFreak2003/github-readme)
 
 ###
