@@ -106,6 +106,6 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/TechFreak2003/count.svg)
+![Visitor Count](https://TechFreak2003.github.io/visitor-badge/badge?page=TechFreak2003)
 
 ###
