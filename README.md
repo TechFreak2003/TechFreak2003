@@ -106,7 +106,6 @@
 
 ---
 
-## 👁️ Visitor's Count
-![Visitor Count](https://TechFreak2003.github.io/visitor-badge/badge?page=TechFreak2003)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TechFreak2003.visitor-badge&left_color=gray&right_color=brightgreen)
 
 ###
