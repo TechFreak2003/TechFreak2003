@@ -106,6 +106,6 @@
 
 ---
 
-![Visitor Count](https://shields.io/endpoint?url=https://count.getloli.com/get/@TechFreak2003/github-readme)
+![Visitor Count](https://profile-counter.glitch.me/TechFreak2003/count.svg)
 
 ###
