@@ -108,7 +108,8 @@
 
 # 👁️ Visitor's Count 
 <p>
-  <img src="https://hits.sexy/TechFreak2003-TechFreak2003.svg" alt="Suvrodeep:: Visitor's Count"/>
+  <img src="https://readeasycounter.com/TechFreak2003/readme" alt="Suvrodeep:: Visitor's Count" />
+
 </p>
 
 ###
