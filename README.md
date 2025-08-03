@@ -106,10 +106,9 @@
 
 ---
 
-# 👁️ Visitor's Count 
-<p>
-  <img src="https://readeasycounter.com/TechFreak2003/readme" alt="Suvrodeep:: Visitor's Count" />
-
+<!-- 👁️ Visitor's Count -->
+<p align="left">
+  <img src="https://bus-hit-counter.vercel.app/api/hit/TechFreak2003/readme" alt="Visitor Count" />
 </p>
 
 ###
